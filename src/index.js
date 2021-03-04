@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 
 ReactDOM.render(
-    <App authorized={false} />,
+    <App login="dmonahan24"/>,
 
   document.getElementById('root')
 );
